@@ -1,6 +1,6 @@
-n = 10;
+n = 1;
 
 m = 1;
 
-ciudades = array2d(1..1, 1..2, [5, 20]);
+ciudades = array2d(1..1, 1..2, [0, 0]);
 
