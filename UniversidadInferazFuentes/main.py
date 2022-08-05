@@ -61,7 +61,7 @@ def main():
         ]
     ]
 
-    window = sg.Window('Form Fill Demonstration', layout, size=(600, 600), grab_anywhere=False, element_justification='c')
+    window = sg.Window('Proyecto Complejidad y Optimización', layout, size=(600, 600), grab_anywhere=False, element_justification='c')
 
     while True:
         event, values = window.read()
